@@ -16,7 +16,7 @@ def d3pipeline(
     #Dkube user
     user='oc',
     #Dkube authentication token
-    auth_token='eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0YmNkZjBmZWJmNDRiOGRhZGQxZWIyOGM2MjhkYWYxIn0.eyJ1c2VybmFtZSI6Im9jIiwicm9sZSI6ImRhdGFzY2llbnRpc3QsbWxlLHBlLG9wZXJhdG9yIiwiZXhwIjo0ODUwMzU1NTk0LCJpYXQiOjE2MTAzNTU1OTQsImlzcyI6IkRLdWJlIn0.HYOnQCE-BvVOEEPS83zX3nqtywVCMNtLnoIX06sDg12RX8AEWsCkx-w_Tx085FvqHGb_lYG8eyvNqnlzftsXIXjlwcnd3AvRwIfZ6bTL8hzv_vor9nnQcwsY97ehXJsDRANu9OxbZDLKmFI9ujaLPbPCAkFFFPHno8eBBrSfWBsWqcRgnjKAR0gS6kzVnoleX6jySmpV5GVpImX2IMCEEXzOm_xZ17badrHUdnpa6ai-SoIXMSJFcWYyUiQaIPAsDN7OZbHIX8NE_P-O-YllrXPhjf97aCnvzya9jBV-DwkwhtMfj2MkzZXouEsBCfhWKQ2Mucyd88WO5RDLjsXeZA',
+    auth_token='',
     #Name of the project in dkube
     training_program='m',
     #Dataset to train on
