@@ -14,7 +14,7 @@ dkube_metricviz_op          = components.load_component_from_file("./metricviz.y
 )
 def d3pipeline(
     #Dkube user
-    user='oc',
+    user='',
     #Dkube authentication token
     auth_token='',
     #Name of the project in dkube
